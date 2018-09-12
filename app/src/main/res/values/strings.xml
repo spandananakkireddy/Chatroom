@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group32_Homework5</string>
+    <string name="currentthreads">Current Threads</string>
+    <string name="addthread" />
+    <string name="messagethread" />
+    <string name="chattitle" />
+    <string name="message" />
+    <string name="name" />
+    <string name="time" />
+    <string name="fullname" />
+</resources>
